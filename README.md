@@ -1,0 +1,2 @@
+primi script in python
+
